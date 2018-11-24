@@ -1,0 +1,20 @@
+body{
+    font-family:Times New Roman; 
+    text-align: center;
+}
+h1 {
+    color: red;
+    
+}
+h2 {
+    color:orangered;
+    font-size: 35pt;
+}
+p {
+    color: black;
+    font-size: 15pt;
+}
+ul {
+    color: black;
+     font-size: 25pt;
+}
